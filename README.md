@@ -1,2 +1,8 @@
-# leaf-extras
- Extra stuff for a forest green dark & light theme for the KDE Plasma desktop [original by https://github.com/qewer33]
+## Leaf Extras
+
+ Extra stuff for [**Leaf**](https://github.com/qewer33/leaf-kde), a green accent, forest colored light & dark global theme set for KDE Plasma. Extras includes the following components:
+
+- [x] Alacritty theme
+
+all credit goes to **qewer33**
+extras by **Sneexy**

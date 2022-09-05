@@ -1,0 +1,90 @@
+color_schemes:
+
+  leaf-dark: &leaf-dark
+    # Default colors
+    primary:
+        background: '#2e2c2f'
+        foreground: '#e1e4dc'
+
+    cursor:
+        text: '#e1e4dc'
+        cursor: '#e1e4dc'
+
+    # Normal colors
+    normal:
+        black:   '#2e2c2f'
+        red:     '#ba5860'
+        green:   '#729b79'
+        yellow:  '#ccaa6c'
+        blue:    '#5292c6'
+        magenta: '#8c6aa8'
+        cyan:    '#489ca5'
+        white:   '#e1e4dc'
+
+    # Bright colors
+    bright:
+        black:   '#403f42'
+        red:     '#d6797a'
+        green:   '#98cca4'
+        yellow:  '#e3c882'
+        blue:    '#76ace6'
+        magenta: '#b798e6'
+        cyan:    '#77c5da'
+        white:   '#fcfff6'
+
+    # Dim colors
+    dim:
+        black:   '#2e2c2f'
+        red:     '#ba5860'
+        green:   '#729b79'
+        yellow:  '#ccaa6c'
+        blue:    '#5292c6'
+        magenta: '#8c6aa8'
+        cyan:    '#489ca5'
+        white:   '#e1e4dc'
+
+  leaf-light: &leaf-light
+    # Default colors
+    primary:
+        background: '#e1e4dc'
+        foreground: '#2e2c2f'
+
+    cursor:
+        text: '#2e2c2f'
+        cursor: '#2e2c2f'
+
+    # Normal colors
+    normal:
+        black:   '#2e2c2f'
+        red:     '#ba5860'
+        green:   '#729b79'
+        yellow:  '#ccaa6c'
+        blue:    '#5292c6'
+        magenta: '#8c6aa8'
+        cyan:    '#489ca5'
+        white:   '#e1e4dc'
+
+    # Bright colors
+    bright:
+        black:   '#262527'
+        red:     '#9d4b53'
+        green:   '#59795f'
+        yellow:  '#a78a58'
+        blue:    '#40739a'
+        magenta: '#715688'
+        cyan:    '#3b8187'
+        white:   '#b1b3ad'
+
+    # Dim colors
+    dim:
+        black:   '#2e2c2f'
+        red:     '#ba5860'
+        green:   '#729b79'
+        yellow:  '#ccaa6c'
+        blue:    '#5292c6'
+        magenta: '#8c6aa8'
+        cyan:    '#489ca5'
+        white:   '#e1e4dc'
+
+
+colors: *leaf-dark
