@@ -4,5 +4,12 @@
 
 - [x] Alacritty theme
 
+## Alacritty
+![Dark](https://github.com/sneexy-boi/leaf-extras/blob/main/alacritty-dark.png?raw=true)
+![Light](https://github.com/sneexy-boi/leaf-extras/blob/main/alacritty-light.png?raw=true)
+
+
 all credit goes to **qewer33**
+
+
 extras by **Sneexy**
